@@ -8,7 +8,7 @@ import './index.css'
 
 
 const App= () => {
-  const apiKey = process.env.REACT_APP_NEWS_API
+  const apiKey = 'ed2d83dda75e47959c045378a6ed635f'
   const [progress, setProgress] = useState(0)
   
   return (
